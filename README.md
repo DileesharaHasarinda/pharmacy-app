@@ -1,5 +1,5 @@
 Admin UserName and Password
 ------------------------------
 
-username - Admin@gmail.com
+username - admin@gmail.com
 password - Admin@1234
